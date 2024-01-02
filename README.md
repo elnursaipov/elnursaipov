@@ -23,9 +23,13 @@ src="https://img.shields.io/github/followers/elnursaipov?logo=github&style=for-t
 </p>
 
 
-### Socials
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://codepen.io/saipov__975" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="saipov__975" height="30" width="40" /></a>
+<a href="https://instagram.com/saipov__975" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="saipov__975" height="30" width="40" /></a>
+<a href="https://discord.gg/saipov__975" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="saipov__975" height="30" width="40" /></a>
+</p>
 
-<p align="left"> <a href="https://discord.com/users/saipov__975" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /> </picture> </a> <a href="https://www.github.com/elnursaipov" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="http://www.instagram.com/saipov__975" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" /> <img src="[https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32](https://www.google.com/url?sa=i&url=https%3A%2F%2Fny.m.wikipedia.org%2Fwiki%2FFile%3AInstagram_icon.png&psig=AOvVaw2-xx0NSCUVvxx7eMD0gjZ4&ust=1704291321361000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCLinhInyvoMDFQAAAAAdAAAAABAD)" /> </picture> </a></p>
 
 <b>My GitHub Stats</b>
 
